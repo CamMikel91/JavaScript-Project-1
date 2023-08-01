@@ -1,0 +1,1 @@
+document.write("<p style= 'color:blue; font-size: 40px'>Otech is an awesome place to be!</p>");
